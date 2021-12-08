@@ -1,4 +1,11 @@
 # Hello React
 
 !["Index Page](public/index.gif)
-This repository contains the starter code for a Lighthouse Labs coding challenge.
+
+### Project ShowCase:
+
+- Passing props.children with JSX
+- Handling DOM events
+- Managing state
+- Conditional rendering
+- Controlled inputs
